@@ -1,4 +1,4 @@
-# SSC
+# SSC STMIK Bumigora Mataram
 
 Repository ini dibuat untuk kepentingan Acara Seminar Nasional SSC Pada Bulan Desember Mendatang.
 
